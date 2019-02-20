@@ -1,4 +1,5 @@
 //based on an Example by @curran
+
 window.requestAnimFrame = (function(){   return  window.requestAnimationFrame})();
 var canvas = document.getElementById("space");
 var c = canvas.getContext("2d");
