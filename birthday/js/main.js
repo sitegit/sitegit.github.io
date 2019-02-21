@@ -94,10 +94,10 @@ executeFrame();
 
 
 $(function() {
-  $('.mycontainer').find('.console-container').fadeOut(30000).end().delay(12000).fadeOut('slow');
+  $('.mycontainer').find('.console-container').fadeOut(20000).end().delay(6000).fadeOut('slow');
     });
     
-     consoleText(['From Cheboksary, Penza and Moscow', 'WITH LOVE!'], 'text',['tomato','rebeccapurple','lightblue']);
+     consoleText(['From Cheboksary, Penza and Moscow WITH LOVE!'], 'text',['tomato','rebeccapurple','lightblue']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];

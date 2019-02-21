@@ -98,6 +98,75 @@ html,body{
   box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.1);
 }
 
+.tim{
+  background: url(../img/tim.jpg) no-repeat center top;
+}
+.eva{
+  background: url(../img/eva.jpg) no-repeat center top;
+}
+.nat{
+  background: url(../img/nat.jpg) no-repeat center top;
+}
+.me{
+  background: url(../img/alex.jpg) no-repeat center top;
+}
+.tim, .eva, .nat, .me{
+  position: relative;
+  height: 700px;
+}
+.textt{
+  position: absolute;
+  width: 100%;
+  background: black;
+  bottom: 0;
+  right: 0;
+ 
+}
+.textt p{
+  color: #fff !important;
+  font-family: sans-serif !important;
+   text-align: right;
+   padding: 10px;
+   margin: 0;
+   line-height: 1;
+}
+.texte{
+  position: absolute;
+  top: 0;
+  background: #c8a2c8;
+}
+.texte p{
+  padding: 10%;
+  margin: 0;
+  font-family: sans-serif !important;
+}
+.textm{
+  position: absolute;
+  bottom: 189px;
+  background: white;
+  padding: 0;
+  width: 300px;
+  left: 50%;
+  margin-left: -150px !important;
+  border-radius: 50px;
+  
+}
+.textm p{
+  color: black !important;
+  font-family: sans-serif !important;
+  font-weight: bolder;
+  margin: 0;
+  padding: 10px;
+  
+}
+
+
+
+
+
+
+
+
 
 
 
