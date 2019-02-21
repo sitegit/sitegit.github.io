@@ -99,16 +99,16 @@ html,body{
 }
 
 .tim{
-  background: url(../img/tim.jpg) no-repeat center top;
+  background: url(../images/tim.jpg) no-repeat center top;
 }
 .eva{
-  background: url(../img/eva.jpg) no-repeat center top;
+  background: url(../images/eva.jpg) no-repeat center top;
 }
 .nat{
-  background: url(../img/nat.jpg) no-repeat center top;
+  background: url(../images/nat.jpg) no-repeat center top;
 }
 .me{
-  background: url(../img/alex.jpg) no-repeat center top;
+  background: url(../images/alex.jpg) no-repeat center top;
 }
 .tim, .eva, .nat, .me{
   position: relative;
