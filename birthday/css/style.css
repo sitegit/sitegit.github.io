@@ -160,7 +160,7 @@ html,body{
 }
 .textn{
    position: absolute;
-   background: #800000;
+   background: #800000 !important;
 }
 .textn p{
    font-family: sans-serif !important;
