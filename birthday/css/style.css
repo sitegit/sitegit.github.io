@@ -125,7 +125,6 @@ html,body{
 .textt p{
   color: #fff !important;
   font-family: sans-serif !important;
-   text-align: right;
    padding: 10px;
    margin: 0;
    line-height: 1;
@@ -159,7 +158,16 @@ html,body{
   padding: 10px;
   
 }
-
+.textn{
+   position: absolute;
+   background: #800000;
+}
+.textn p{
+   font-family: sans-serif !important;
+   color: #FFDAB9 !important;
+   margin: 0;
+  padding: 20px;
+}
 
 
 
